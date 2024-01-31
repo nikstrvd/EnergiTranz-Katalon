@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Welcome to CorpCarbon</name>
+   <tag></tag>
+   <elementGuidId>559ac67e-d4a9-4568-986d-d852f6d05e1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sub-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7c341744-95ab-4a6a-8a6f-c5ccf80d4342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-title</value>
+      <webElementGuid>57c73022-ed55-4ee4-9fee-23d6397b55cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to CorpCarbon</value>
+      <webElementGuid>2fb5ef99-c4c9-42a3-8431-c31107f5092e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths sb-init&quot;]/body[@class=&quot;sticky-header&quot;]/section[1]/div[@class=&quot;body-content&quot;]/div[@class=&quot;page-head&quot;]/span[@class=&quot;sub-title&quot;]</value>
+      <webElementGuid>f5aca625-20db-4052-919b-9c702f13a61c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>9f82fd48-999f-4aa2-b90d-f84a2b9e33bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Welcome to CorpCarbon' or . = 'Welcome to CorpCarbon')]</value>
+      <webElementGuid>de4297a3-1aae-4876-88dc-44dec496a369</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

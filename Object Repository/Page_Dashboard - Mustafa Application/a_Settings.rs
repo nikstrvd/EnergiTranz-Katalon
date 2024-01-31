@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Settings</name>
+   <tag></tag>
+   <elementGuidId>8b0ebeb4-e2d2-42af-be0c-560bd244f545</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.dropdown-menu.dropdown-usermenu.purple.pull-right > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Settings')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>89fcb132-6dba-4c8e-89b8-af261449c872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://energitrans.2stallions.network/settings</value>
+      <webElementGuid>1183da92-d822-4674-8f29-21f643bddb20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Settings</value>
+      <webElementGuid>0aff983b-6257-44a5-a0c3-b5e0f22e443f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths sb-init&quot;]/body[@class=&quot;sticky-header&quot;]/section[1]/div[@class=&quot;body-content&quot;]/div[@class=&quot;header-section&quot;]/div[@class=&quot;notification-wrap&quot;]/div[@class=&quot;right-notification&quot;]/ul[@class=&quot;notification-menu&quot;]/li[@class=&quot;open&quot;]/ul[@class=&quot;dropdown-menu dropdown-usermenu purple pull-right&quot;]/li[1]/a[1]</value>
+      <webElementGuid>8ec13367-d6ac-445b-9d02-d167cdeba4a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Settings')]</value>
+      <webElementGuid>c285a1d0-b17a-4e75-9f34-372a85f970a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://energitrans.2stallions.network/settings']</value>
+      <webElementGuid>6e2758c5-16d5-4fb0-b24b-940bd99adbee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/ul/li/ul/li/a</value>
+      <webElementGuid>ffdcc519-e97e-4693-97c9-6100989a9614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://energitrans.2stallions.network/settings' and (text() = '  Settings' or . = '  Settings')]</value>
+      <webElementGuid>34dfa1d5-6707-4ccb-8680-326f506f56cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

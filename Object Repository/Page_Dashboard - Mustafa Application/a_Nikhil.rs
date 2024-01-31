@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Nikhil</name>
+   <tag></tag>
+   <elementGuidId>d3900fc4-f335-4c30-aa81-0c0a92059f69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-default.dropdown-toggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@href, 'javascript:;')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2e411164-db84-46a8-a735-cf245057da46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>6057f9b5-1160-4e38-a3e7-3062ae1fd9e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default dropdown-toggle</value>
+      <webElementGuid>45d556f1-d37e-43b7-9ddb-4581e74653a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>218f6a4c-18f6-4e54-8f00-431ca57ecb8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Nikhil                                
+                            </value>
+      <webElementGuid>43a2edf1-041d-4432-b225-9dc7125bcc3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths sb-init&quot;]/body[@class=&quot;sticky-header&quot;]/section[1]/div[@class=&quot;body-content&quot;]/div[@class=&quot;header-section&quot;]/div[@class=&quot;notification-wrap&quot;]/div[@class=&quot;right-notification&quot;]/ul[@class=&quot;notification-menu&quot;]/li[1]/a[@class=&quot;btn btn-default dropdown-toggle&quot;]</value>
+      <webElementGuid>97fc10c6-c71c-4e8e-a41f-c29f3db1b0d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:;')]</value>
+      <webElementGuid>4fd7f851-ebdf-4bd7-8f92-f0bedf9e2ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/ul/li/a</value>
+      <webElementGuid>2f4f9f15-5ac6-4931-af76-ece8e05f8ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;' and (text() = '
+                                Nikhil                                
+                            ' or . = '
+                                Nikhil                                
+                            ')]</value>
+      <webElementGuid>99193ee3-9477-4da7-91c2-e9c7389dd7d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
